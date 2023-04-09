@@ -15,3 +15,5 @@ controle.forEach((elemento) =>{
         peca.value = parseInt(peca.value) + 1;
     }
  }
+
+ 
